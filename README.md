@@ -30,4 +30,4 @@ A simple Weather WebApp that allows users to check the current weather in a spec
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mthirumalai2905/Weather-WebApp.git
+   https://github.com/Narayan-Ekhande/Weather-website.git
